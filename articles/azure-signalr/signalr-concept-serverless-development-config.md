@@ -197,7 +197,7 @@ For more information on how to use the SignalR client SDK, refer to the document
 
 ### Sending messages from a client to the service
 
-Although the SignalR SDK allows client applications to invoke backend logic in a SignalR hub, this functionality is not yet supported when you use SignalR Service with Azure Functions. Use HTTP requests to invoke Azure Functions.
+This functionality is in [preview](concept-upstream.md).
 
 ## Azure Functions configuration
 
